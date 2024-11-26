@@ -1,0 +1,19 @@
+.footer-icons {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.footer-icons a {
+    margin: 0 10px;
+    color: #000; 
+    font-size: 24px;
+}
+
+.footer-icons a:hover {
+    color: #0077b5; /* Change color on hover for LinkedIn */
+}
+
+.footer-icons a:hover:nth-child(2) {
+    color: #333; /* Change color on hover for GitHub */
+}
