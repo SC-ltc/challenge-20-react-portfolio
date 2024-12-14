@@ -6,7 +6,7 @@ The objective for this assignment is to create a professional portfoliio using R
 
 ## Link to the deployed application
 
-sc-reactportfolio-e76b9d.netlify.app/
+[My React portfilio on Netlify](https://sc-reactportfolio-e76b9d.netlify.app/)
 
 ## Link to the repository for this project
 
