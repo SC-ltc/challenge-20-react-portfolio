@@ -10,7 +10,7 @@ The objective for this assignment is to create a professional portfoliio using R
 
 ## Link to the repository for this project
 
-https://github.com/SC-ltc/challenge-20-react-portfolio/tree/main
+https://github.com/SC-ltc/challenge-20-react-portfolio
 
 ## Items for further development
 
