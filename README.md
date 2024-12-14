@@ -14,7 +14,7 @@ https://github.com/SC-ltc/challenge-20-react-portfolio/tree/main
 
 ## Items for further development
 
-This was a very challenging assignment for me. In the future, I will aim to significantly improve the page layout and add to the Portfolio and Resume pages.
+This was a very challenging assignment for me. I spent a lot of time just getting the page to render without any issues. In the future, I will aim to significantly improve the page layout and add to the Portfolio and Resume pages.
 
 
 ## Course Resources used for this assignment:
