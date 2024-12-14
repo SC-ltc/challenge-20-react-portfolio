@@ -10,10 +10,17 @@ sc-reactportfolio-e76b9d.netlify.app/
 
 ## Link to the repository for this project
 
-sc-reactportfolio-e76b9d.netlify.app/
+https://github.com/SC-ltc/challenge-20-react-portfolio/tree/main
+
+## Items for further development
+
+This was a very challenging assignment for me. In the future, I will aim to significantly improve the page layout and add to the Portfolio and Resume pages.
 
 
-## Resources used for this assignment:
+## Course Resources used for this assignment:
 Coding Bootcamp Module 20
+Xpert Learning Assistant
+
+## Other resources used for this assignment:
 
 [Deploying to Netlify](https://vite.dev/guide/static-deploy.html#netlify)
