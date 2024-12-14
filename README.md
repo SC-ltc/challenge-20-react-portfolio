@@ -19,6 +19,7 @@ This was a very challenging assignment for me. I spent a lot of time just gettin
 
 ## Course Resources used for this assignment:
 Coding Bootcamp Module 20
+
 Xpert Learning Assistant
 
 ## Other resources used for this assignment:
